@@ -2,7 +2,7 @@ import "@styles/globals.css"
 
 export const metadata = {
   title: "Braiwnwave",
-  description: "Brainwave: building the next generation ai prompting service",
+  description: "Built by Abdullah Ajayi",
 }
 
 const layout = ({ children }) => {
