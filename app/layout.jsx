@@ -13,7 +13,7 @@ const layout = ({ children }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           property="og:image"
-          content="https://unsplash.com/photos/black-and-green-full-face-helmet-on-white-wooden-table-IGa3Md8wP6g"
+          content="https://brainwave-three-azure.vercel.app/preview.png"
         />
       </head>
       <body suppressHydrationWarning={true}>{children}</body>
