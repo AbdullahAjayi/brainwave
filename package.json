@@ -12,7 +12,6 @@
     "next": "15.0.0-rc.0",
     "react": "19.0.0-rc-f994737d14-20240522",
     "react-dom": "19.0.0-rc-f994737d14-20240522",
-    "react-just-parallax": "^3.1.16",
     "scroll-lock": "^2.1.5"
   },
   "devDependencies": {
