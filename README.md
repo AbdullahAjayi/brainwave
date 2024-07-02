@@ -1,3 +1,9 @@
+![Alt text](https://brainwave-three-azure.vercel.app/preview.png "Website preview")
+
+## Project Description
+The website utilizes a modern ui design with clean layouts and whitespace for a visually appealing user interface, incorporating interactive elements and animations for an engaging experience. Scroll Lock functionality is used in specific sections to enhance user focus during interaction
+
+## Project Setup
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,17 +26,16 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Technologies used in this project
+- [Next.js](https://nextjs.org) for development
+- [Tailwind CSS](https://tailwindcss.com/) for styling
+- [Scroll Lock](https://www.npmjs.com/package/scroll-lock) to add some scroll based feature
 
-To learn more about Next.js, take a look at the following resources:
+## Concepts used in this project
+- Svg
+- Bento grids
+- Advanced css techniques
+- Modern UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Website Url
+🔗[https://brainwave-three-azure.vercel.app/](https://brainwave-three-azure.vercel.app/)
