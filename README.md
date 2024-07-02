@@ -1,4 +1,4 @@
-![Alt text](https://brainwave-three-azure.vercel.app/preview.png "Website preview")
+![website preview image](https://brainwave-three-azure.vercel.app/preview.png "Website preview")
 
 ## Project Description
 The website utilizes a modern ui design with clean layouts and whitespace for a visually appealing user interface, incorporating interactive elements and animations for an engaging experience. Scroll Lock functionality is used in specific sections to enhance user focus during interaction
